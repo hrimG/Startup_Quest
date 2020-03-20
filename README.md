@@ -5,7 +5,7 @@
 <p>Creators:</p>
 <ol>
   <li>Hrim Gandhi</li>
-  <li>2.Ritika Mangla</li>
+  <li>Ritika Mangla</li>
   <li>Owais Hetavkar</li>
   <li>Anuj Raghani</li>
 <ol>
